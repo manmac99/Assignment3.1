@@ -1,0 +1,5 @@
+mainpage.html is the mainpage of assignment3.1
+
+When click "This page!" page2.html will be load
+
+When click other four elements 'name.html, hobby.html, school.html, age.html' will be started 
